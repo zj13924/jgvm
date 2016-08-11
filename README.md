@@ -1,5 +1,5 @@
 # jgvm
-Automatically exported from [code.google.com/p/jgvm](code.google.com/p/jgvm)
+Automatically exported from [code.google.com/p/jgvm](https://code.google.com/p/jgvm)
 
 Java implementation of GVmaker interpreter
 
